@@ -1,2 +1,2 @@
-# Number-Guessing-By-Erum
-This is my CLi based number guessing game
+# A36-cli-Number-Game
+This is cli-based number guessing game.
